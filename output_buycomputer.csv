@@ -1,0 +1,15 @@
+,Age,Income,Student,Credit Rating,Buys Computer
+0,khoang 20-30,>60000,yes,<4,no
+1,khoang 20-30,>60000,no,>=4,no
+2,khoang 30-40,30000->60000,no,<4,yes
+3,40 tro len,30000->60000,yes,<4,yes
+4,40 tro len,<30000,no,<4,yes
+5,40 tro len,30000->60000,yes,>=4,no
+6,khoang 30-40,<30000,yes,>=4,no
+7,khoang 20-30,30000->60000,yes,<4,no
+8,40 tro len,>60000,yes,<4,no
+9,40 tro len,30000->60000,yes,<4,no
+10,khoang 20-30,30000->60000,yes,>=4,yes
+11,40 tro len,30000->60000,no,>=4,yes
+12,khoang 30-40,>60000,yes,<4,no
+13,40 tro len,30000->60000,no,>=4,no
